@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MenusExample</string>
+    <string-array name="asean_country_array">
+        <item>Myanmar</item>
+        <item>Brunei</item>
+        <item>Cambodia</item>
+        <item>Indonesia</item>
+        <item>Lao</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>Philippines</item>
+        <item>Thailand</item>
+        <item>Vietnam</item>
+    </string-array>
+
+    <string name="long_text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ultrices consectetur magna, non posuere massa. Duis egestas maximus porttitor. Mauris faucibus magna ac turpis accumsan tincidunt. Praesent in blandit ex. Duis congue tempus urna vel congue. Nulla eu ultricies purus, ut elementum felis. Vivamus leo eros, congue a molestie a, scelerisque ut augue. Nulla massa magna, rutrum consequat facilisis eu, fringilla ut nibh. Suspendisse tempor elementum consectetur. Duis sodales eros et tempus tempus. Duis ullamcorper auctor orci, sit amet rhoncus orci finibus quis. Mauris est ex, tempus ac gravida id, luctus sit amet dolor. Maecenas lacinia quam metus, ut consequat nibh egestas ac. "</string>
+</resources>
